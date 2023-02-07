@@ -8,6 +8,8 @@ Because this application won’t be deployed, you’ll also need to create a wal
 
 Access to user / friend test throught the [following link](https://drive.google.com/file/d/1L2zDNRS54aNNOnhyqM_S7QH6x0BhdafM/view?usp=sharing)
 
+Access to the thought test throught the [following link](https://drive.google.com/file/d/1g4RaM_Ul3hDx7G0xbyWhWrE_j8TMCOhV/view?usp=sharing)
+
 ## User Story
 
 ```md
